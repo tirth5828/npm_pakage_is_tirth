@@ -1,0 +1,22 @@
+{
+  "name": "is_tirth",
+  "version": "1.0.0",
+  "description": "Check if the string is \"tirth\" in any case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tirth5828/npm_pakage_is_tirth.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Tirth Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tirth5828/npm_pakage_is_tirth/issues"
+  },
+  "homepage": "https://github.com/tirth5828/npm_pakage_is_tirth#readme"
+}
